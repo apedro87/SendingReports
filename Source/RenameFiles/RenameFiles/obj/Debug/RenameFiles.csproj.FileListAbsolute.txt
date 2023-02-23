@@ -1,0 +1,16 @@
+C:\Users\bla\Documents\Visual Studio 2012\Projects\RenameFiles\RenameFiles\bin\Debug\RenameFiles.exe.config
+C:\Users\bla\Documents\Visual Studio 2012\Projects\RenameFiles\RenameFiles\bin\Debug\RenameFiles.exe.manifest
+C:\Users\bla\Documents\Visual Studio 2012\Projects\RenameFiles\RenameFiles\bin\Debug\RenameFiles.application
+C:\Users\bla\Documents\Visual Studio 2012\Projects\RenameFiles\RenameFiles\bin\Debug\RenameFiles.exe
+C:\Users\bla\Documents\Visual Studio 2012\Projects\RenameFiles\RenameFiles\bin\Debug\RenameFiles.pdb
+C:\Users\bla\Documents\Visual Studio 2012\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.csprojResolveAssemblyReference.cache
+C:\Users\bla\Documents\Visual Studio 2012\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.exe.manifest
+C:\Users\bla\Documents\Visual Studio 2012\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.application
+C:\Users\bla\Documents\Visual Studio 2012\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.exe
+C:\Users\bla\Documents\Visual Studio 2012\Projects\RenameFiles\RenameFiles\obj\Debug\RenameFiles.pdb
+C:\Users\Adriano\Dropbox\Share\13. Programação & Scripts\Envio de relatorios de AUDIT\Source\RenameFiles\RenameFiles\bin\Debug\RenameFiles.exe.config
+C:\Users\Adriano\Dropbox\Share\13. Programação & Scripts\Envio de relatorios de AUDIT\Source\RenameFiles\RenameFiles\obj\Debug\RenameFiles.exe
+C:\Users\Adriano\Dropbox\Share\13. Programação & Scripts\Envio de relatorios de AUDIT\Source\RenameFiles\RenameFiles\obj\Debug\RenameFiles.pdb
+D:\Desktop\Envio de relatorios de AUDIT\Source\RenameFiles\RenameFiles\obj\Debug\RenameFiles.csproj.AssemblyReference.cache
+D:\Desktop\Envio de relatorios de AUDIT\Source\RenameFiles\RenameFiles\obj\Debug\RenameFiles.exe
+D:\Desktop\Envio de relatorios de AUDIT\Source\RenameFiles\RenameFiles\obj\Debug\RenameFiles.pdb
